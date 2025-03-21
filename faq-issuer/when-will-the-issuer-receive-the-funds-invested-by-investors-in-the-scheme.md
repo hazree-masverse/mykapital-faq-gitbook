@@ -1,0 +1,9 @@
+---
+icon: play
+---
+
+# When will the issuer receive the funds invested by investors in the scheme?
+
+## 10 Business Days Cooling-Off Period
+
+The funds invested by the investors will be held by the platform's trustee during the **ten (10) business days cooling-off period.** Upon the conclusion of the cooling-off period, the funds will be transferred to the Issuer's scheme trustee.
