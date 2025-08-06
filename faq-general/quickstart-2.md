@@ -32,10 +32,3 @@ A Combination of such schemes
 {% endstep %}
 {% endstepper %}
 
-a) Investment Scheme;
-
-b) Recreational membership Scheme;
-
-c) Time-sharing Scheme; or
-
-d) A Combination of such schemes
