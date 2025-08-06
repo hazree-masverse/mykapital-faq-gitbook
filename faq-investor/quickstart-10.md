@@ -20,13 +20,7 @@ Download the supporting documents form from the platform before checkout to use 
 
 Issue a cheque and upload the deposit receipt via the platform to complete the subscription request process.
 
-Platform Trustee Bank Details:
-
-Bank: MAYBANK ISLAMIC
-
-Account Name: UTMB FOR MYKAPITAL PLATFORM SDN BHD
-
-Account No.: 564017002353
+<table data-header-hidden><thead><tr><th width="188"></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>Bank</strong></td><td>MAYBANK ISLAMIC</td><td></td></tr><tr><td><strong>Account Name</strong></td><td>UTMB FOR MYKAPITAL PLATFORM SDN BHD</td><td></td></tr><tr><td><strong>Account No.</strong></td><td>564017002353</td><td></td></tr></tbody></table>
 
 </details>
 
