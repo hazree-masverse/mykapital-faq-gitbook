@@ -4,7 +4,7 @@ icon: play
 
 # How can I invest as a corporate investor?
 
-To invest as a corporate investor, you are required to submit the following supporting documents to MyKapital Admin via email at ir@mykapital.my. Our team will facilitate the account registration process before investment activities can commence:
+To invest as a corporate investor, you are required to submit the following supporting documents to MyKapital admin via email at ir@mykapital.my. Our team will facilitate the account registration process before investment activities can commence:
 
 •             SSM Profile
 

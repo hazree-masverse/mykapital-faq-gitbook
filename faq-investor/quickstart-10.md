@@ -6,14 +6,27 @@ icon: play
 
 If you encounter a transfer limit for DuitNow or FPX, you can choose one of the following options:
 
-·       Download the supporting documents form from the platform before checkout to use as supporting documentation for a manual bank transfer. Then, upload the transfer receipt via the platform to complete the subscription request process.
+<details>
 
-·       Issue a cheque and upload the deposit receipt via the platform to complete the subscription request process.
+<summary>Option 1</summary>
 
-Platform Trustee Bank Details
+Download the supporting documents form from the platform before checkout to use as supporting documentation for a manual bank transfer. Then, upload the transfer receipt via the platform to complete the subscription request process.
+
+</details>
+
+<details>
+
+<summary>Option 2</summary>
+
+Issue a cheque and upload the deposit receipt via the platform to complete the subscription request process.
+
+Platform Trustee Bank Details:
 
 Bank: MAYBANK ISLAMIC
 
 Account Name: UTMB FOR MYKAPITAL PLATFORM SDN BHD
 
 Account No.: 564017002353
+
+</details>
+
